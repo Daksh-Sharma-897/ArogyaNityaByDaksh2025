@@ -76,31 +76,23 @@ This structured model ensures fast, safe, and accurate data retrieval — helpin
 
 ---
 
-## 🧠 Our Vision
+## 🧠 Vision
 
 > “To empower every individual with accessible, authentic, and intelligent healthcare — anytime, anywhere.”
 
 ---
 
-## 🩷 Our Mission
+## 🩷 MY Mission
 
 To combine **technology, trust, and humanity** into a single digital platform that delivers medicine, consultation, and care with precision and empathy.
 
 ---
 
-## 📩 Contact & Contribution
-
-If you’d like to contribute, feel free to:
-1. Fork the repository  
-2. Create a new branch (`feature/your-feature-name`)  
-3. Commit and push your changes  
-4. Create a pull request  
-
-💌 *For feedback or collaboration:* [Add your contact email here]
 
 ---
 
 **© 2025 Team Trishakti | ArogyaNitya — Eternal Health for Every Life**
+
 
 
 
