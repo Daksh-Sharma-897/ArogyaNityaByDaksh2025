@@ -52,20 +52,6 @@ it is a **complete digital healthcare companion** designed to save time, ensure 
 
 ---
 
-## 👨‍💻 Team Behind ArogyaNitya
-
-This project is a group effort built with dedication, creativity, and teamwork.
-
-| Name | Role | Contribution |
-|------|------|---------------|
-| **Kirath Sharma** | Project Lead & Database Designer | Project architecture, database design, and coordination. |
-| **[Member 2 Name]** | Frontend Developer | UI/UX design, landing page, and responsiveness. |
-| **[Member 3 Name]** | Backend Developer | API development, user authentication, and server logic. |
-| **[Member 4 Name]** | AI & Chatbot Integrator | Built and integrated the AI chatbot. |
-| **[Member 5 Name]** | Doctor Module Specialist | Designed disease-specialist mapping and user workflow. |
-
-> *Team Name:* **Team Trishakti** — Innovating with Purity, Building with Purpose.
-
 ---
 
 ## 📚 Database Structure
@@ -115,5 +101,6 @@ If you’d like to contribute, feel free to:
 ---
 
 **© 2025 Team Trishakti | ArogyaNitya — Eternal Health for Every Life**
+
 
 
